@@ -1,3 +1,1 @@
-Hello DevOps
-New line
-feature work
+conflict from branch
