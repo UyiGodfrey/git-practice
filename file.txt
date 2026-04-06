@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 conflict from master
-=======
 conflict from branch
->>>>>>> conflict-branch
+
